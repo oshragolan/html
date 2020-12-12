@@ -1,0 +1,39 @@
+img {
+  border-radius: 8px;
+  margin: 10px 10px 10px 10px;
+}
+
+.imggrid {
+  width: 200px;
+  height: 200px;
+}
+
+h1 { color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 90px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
+
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+body {
+	background-color: pink;
+	font-family: Arial;
+	width:60%;
+	margin: auto;
+}
+
+
+
+.grey {
+	color: grey;
+	font-size:32px;
+}
+
+.bigfont{
+	font-size: 32px;
+}
+
+#specialstyle {
+	width:30%;
+	border: 2px solid grey;
+	background-color: white;
+}
